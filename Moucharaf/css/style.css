@@ -1,0 +1,71 @@
+body {
+    background-color: azure;
+}
+
+.titre h1  {
+    color: azure;
+}
+.titre p  {
+    color: azure;
+}
+
+header {
+    background-color: RGB(46, 64, 83);
+    display: flex;
+}
+
+img {
+    border-radius: 250px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.titre {
+    display: block;
+    margin-left: 230px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: RGB(46, 64, 83);
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 8px;
+    margin-top: 70px;
+}
+
+a {
+    color: azure;
+    text-decoration: none;
+}
+
+/*h2 {
+    background-color: RGB(46, 64, 83);
+    color: azure;
+    padding: 8px;
+    margin-right: 20px;
+}*/
+
+section {
+    display:block;
+    padding-right: 850px;
+}
+
+.experiences {
+    float: right;
+    margin-left: 30px;
+}
+.profil {
+    margin-left: 20px;
+}
+.coord {
+    margin-left: 20px;
+}
+.formation {
+    margin-left: 20px;
+}
+.centres {
+    margin-left: 20px;
+    
+}
